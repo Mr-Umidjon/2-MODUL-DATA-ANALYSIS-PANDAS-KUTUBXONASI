@@ -1,0 +1,2 @@
+# 2-MODUL-DATA-ANALYSIS-PANDAS-KUTUBXONASI
+Pandas Series and DataFrame
